@@ -1,3 +1,5 @@
+# create database cars, add table inventory, populate inventory
+
 import sqlite3
 
 

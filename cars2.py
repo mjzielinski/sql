@@ -1,3 +1,5 @@
+# add some new cars to inventory
+
 import sqlite3
 
 with sqlite3.connect("cars.db") as connection:
